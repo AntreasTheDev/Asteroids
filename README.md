@@ -13,7 +13,7 @@ Inaccuracies/Missing (in my knowledge):
 -Audio (wasn't interested in doing that)  
 -Life counter is replaced with a Number rather than Ship Icons  
 -UI Font isn't accurate  
--Added extra functionality such as Pause, Restart 
+-Added extra functionality such as Pause, Restart   
 -Game is limited to 10 waves (can be easily changed if needed)  
   
 Moreover, I split everything into "Engine" (Rendering) and "Game" (Gameplay) and tried to reduce as much dependencies as possible between the two.  
